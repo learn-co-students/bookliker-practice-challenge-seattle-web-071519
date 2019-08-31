@@ -14,27 +14,16 @@
           "id": 8,
           "username": "goodwin"
         }
-      ]
+      ],
+      "username": "pouros"
     },
     {
       "id": 2,
       "title": "Nemesis",
       "description": "The next high-octane thriller in the FBI series featuring Dillon Savich and Lacey Sherlock from # 1 New York Times–bestselling author Catherine Coulter. When Special Agent Lacey Sherlock foils a terrorist attack at JFK airport, she thinks her job is done and turns the reins over to the New York FBI. But stopping the grenade-carrying crazy was only the beginning. Another plot unfolds nearly simultaneously with a bomb at St. Patrick’s Cathedral. The terrorist at JFK refuses to speak to anyone but Sherlock. She heads back with counterterrorist Special Agent Cal McLain to try to get him to talk. Meanwhile, Savich—with the help of Agent Griffin Hammersmith—has his hands full trying to track an elusive murderer who looks like a Hollywood Dracula. When Dracula’s attempts to kill Savich collide with Sherlock’s terrorist case, very strange things happen. Who is really behind the bombing attack at St. Patrick’s? How does Savich’s mysterious killer fit into Sherlock’s terrorism investigation? Savich and Sherlock race against the clock, as more lives are in danger with every passing minute.",
       "img_url": "http://books.google.com/books/content?id=pkwCDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 4,
-          "username": "batz"
-        },
-        {
-          "id": 6,
-          "username": "steuber"
-        }
-      ]
+      "users": 4,
+      "username": "pouros"
     },
     {
       "id": 3,
@@ -93,16 +82,7 @@
       "title": "Whispers",
       "description": "When her father decides to run for governor of Oregon, Claire St. John is forced to confront long-buried secrets as she copes with unexpected feelings for Kane Moran, a handsome journalist with a grudge, who threatens to tell all.",
       "img_url": "http://books.google.com/books/content?id=TmocdXScYFEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 7,
-          "username": "steuber"
-        },
-        {
-          "id": 4,
-          "username": "batz"
-        }
-      ]
+      "users": 3
     },
     {
       "id": 7,
@@ -137,6 +117,10 @@
         {
           "id": 2,
           "username": "auer"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -145,36 +129,14 @@
       "title": "Rocky Mountain Pursuit",
       "description": "IDENTITY: CONFIDENTIAL Everyone believes agent Jase Bradford is dead--everyone but Reyna Peterson. Only he can protect her now that someone wants the information her CIA husband died to secure. As the one member of their spy team not killed, Jase must remain in the shadows. Yet when Reyna leads the enemy right to his mountain refuge and blows his cover, Jase risks his life for hers. As his best friend's beautiful widow scales the walls around his heart, whether out of loyalty or love, he makes it his duty to secure her safety. But when their pursuers trap them in the snowy Colorado mountains, will it become his final mission?",
       "img_url": "http://books.google.com/books/content?id=hmbACwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 8,
-          "username": "goodwin"
-        },
-        {
-          "id": 6,
-          "username": "steuber"
-        },
-        {
-          "id": 5,
-          "username": "king"
-        }
-      ]
+      "users": "[object Object],[object Object],[object Object],[object Object]"
     },
     {
       "id": 10,
       "title": "The Lottery Winner",
       "description": "Five short tales, including 'Plumbing for Willy' and 'Death on the Cape,' follow the adventures of a former cleaning woman and her occasionally befuddled mate",
       "img_url": "http://books.google.com/books/content?id=dK5Gx6vbV2YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 8,
-          "username": "goodwin"
-        },
-        {
-          "id": 10,
-          "username": "macejkovic"
-        }
-      ]
+      "users": "3"
     }
   ],
   "users": [
